@@ -1,4 +1,4 @@
-name: Establish And Publish A Docker Image For Production Deployment.
+name: Establish And Publish a docker image For Production deployment.
 
 on:
     push:
