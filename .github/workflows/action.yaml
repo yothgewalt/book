@@ -47,4 +47,4 @@ jobs:
             username: ${{ secrets.PRODUCTION_USERNAME }}
             password: ${{ secrets.PRODUCTION_PASSWORD }}
             port: ${{ secrets.PRODUCTION_PORT }}
-            script: sudo bash goggles.sh
+            script: sudo bash backend_deployment.sh
